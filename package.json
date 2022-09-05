@@ -1,10 +1,6 @@
 {
   "name": "ngx-viacep-app",
   "version": "3.3.7",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/brunoc107/ngx-viacep.git"
-  },
   "author": {
     "name": "Bruno Carvalho",
     "email": "brunocarvalho107@gmail.com"
@@ -19,9 +15,6 @@
     "api cep"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brunoc107/ngx-viacep.git/issues"
-  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
